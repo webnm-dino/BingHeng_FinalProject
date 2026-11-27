@@ -98,11 +98,11 @@ Under Section 1, ensure these lines of code are uncommented, and comment out the
 4. #define TFT_HEIGHT 240
 
 Under Section 2 with the title "For ESP32 Dev board (only tested with GC9A01 display)"
-Ensure the following pins are assigned and comment out other lines:
-#define TFT_MOSI 23  // Connects to display SDA
-#define TFT_SCLK 18  // Connects to display SCL
-#define TFT_CS    5  // Connects to display CS
-#define TFT_DC    4  // Connects to display DC
+Ensure the following pins are assigned and comment out other lines:  
+#define TFT_MOSI 23  // Connects to display SDA  
+#define TFT_SCLK 18  // Connects to display SCL  
+#define TFT_CS    5  // Connects to display CS  
+#define TFT_DC    4  // Connects to display DC  
 #define TFT_RST  22  // Connects to display RST
 
 **User_Setup_Select.h**   
