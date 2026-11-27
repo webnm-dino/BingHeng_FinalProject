@@ -113,8 +113,8 @@ Only "#include <User_Setup.h>" should be uncommented
 # Acknowledgements
 Guidance by Ashley Hi
 
-UI assets by EEZ Studio Software
-Typeface Montserrat default loaded by EEZ Studio Software
+UI assets by EEZ Studio Software.   
+Typeface Montserrat default loaded by EEZ Studio Software.   
 
 Icons used:  
 1. <a href="https://www.flaticon.com/free-icons/breathing" title="breathing icons">Breathing icons created by HAJICON - Flaticon</a>
