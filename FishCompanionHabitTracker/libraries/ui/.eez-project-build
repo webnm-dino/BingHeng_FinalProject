@@ -1,0 +1,26 @@
+{
+  "files": [
+    "actions.h",
+    "eez-flow.cpp",
+    "eez-flow.h",
+    "fonts.h",
+    "images.c",
+    "images.h",
+    "screens.c",
+    "screens.h",
+    "structs.h",
+    "styles.c",
+    "styles.h",
+    "ui.c",
+    "ui.h",
+    "ui_font_test.c",
+    "ui_image_breathe_icon.c",
+    "ui_image_fish_happy.c",
+    "ui_image_fish_neutral.c",
+    "ui_image_fish_sad.c",
+    "ui_image_menu.c",
+    "ui_image_run_icon.c",
+    "ui_image_water_icon.c",
+    "vars.h"
+  ]
+}
