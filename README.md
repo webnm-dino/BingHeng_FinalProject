@@ -136,9 +136,9 @@ Icons used:
         - Default UI assets by EEZ studio
 
 - Arduino IDE additional files
-    Boards Manager:
+    - Boards Manager:
         - esp32 by Espressif v3.3.12 (https://github.com/espressif/arduino-esp32)
-    Libraries:
+    - Libraries:
         - TFT_eSPI (LCD library) (https://github.com/Bodmer/TFT_eSPI)
         - lvgl by kisvegabor v9.5.0 (GUI library) (https://lvgl.io)
 
