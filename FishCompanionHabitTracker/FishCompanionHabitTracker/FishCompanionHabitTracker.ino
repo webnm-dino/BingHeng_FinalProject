@@ -119,7 +119,7 @@ void sync_encoder_to_active_screen() {
     //Condition to check if no screens are targetted
     if (target_group != NULL && encoder_indev != NULL) {
         lv_indev_set_group(encoder_indev, target_group);
-        lv_group_set_editing(target_group, false);              //Clear any previous targetted buttons
+        lv_group_set_editing(target_group, false); //Clear any previous targetted buttons
         
         //Focus on respective assigned button when new screen shows
         lv_obj_t *focused = lv_group_get_focused(target_group);
